@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Every adult knows what they are doing,that an adult treats you a certain way or treats a project or behave a certain way is not because they don't have a choice to learn and unlearn but because they don't value that thing to an extent that they can put in extra effort to make it a sucess.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+You are a co-creator in your life
 
 ### Evidence from my life
 
-Add your answer here...
+The tech path I have taken today is because I made that one decision,The Lord himself did not have to come down from heaven to enroll me in my first tech course but through the knowledge and wisdom he has instilled in me and the priviledge of creating, I created this version of me that is currently on this journey.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+There is God
 
 ### Evidence from my life
 
-Add your answer here...
+There are a whole lot of instances and it is best when I am describing to someone that He is best encountered and experienced.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Your food is your medicine and you have a major role to play in your health.
 
 ### Evidence from my life
 
-Add your answer here...
+I have seen someone whose blood pressure got better by just fixing their diet and overall health improved significantly and adding exercise in my routinr reduced my hospital visit.
 
 ---
 
@@ -135,11 +135,11 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+A Medium post
 
 ### Public Link
 
-Paste your link here:
+https://medium.com/@cloudcrackamara/-051bb650015d?sharedUserId=cloudcrackamara
 
 `__________________________`
 
@@ -173,7 +173,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+NO
 
 ---
 
@@ -199,16 +199,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Rich Dad,Poor Dad
+2. Atomic habits
+3. 5am Club
+4. The monk who sold his ferrari
+5. Dare to Lead
+6. Outlive
+7. The First 90 Days
+8. The Art of Listening
+9. Eat the Frog
+10. The Psychology of Money
 
 ---
 
@@ -237,16 +237,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* My body weight and vitals
+* Sleeping routine
+* Finances
+* Mastery of tools/solutions and evolving in my career
+* Books read
+* Hours I can spend off the screen reading hardcover books
+* Document every project on github
+* weekly step counts
+* How much i hang out with my loved ones
+* My eating routine of healthy meals
 
 ---
 
@@ -272,7 +272,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +290,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon-Thursday: 30mins walk and 60mins learning
+Friday:Crosscheck that all assignments and tasks have been submitted
+Sat: DMI session
+Sunday:Religious activity and a Review
 
 ---
 
@@ -298,11 +301,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Mondays-Wednesdays 5pm-9pm
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+2-3 sessions
 
 ---
 
@@ -316,7 +319,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Off my social accounts
+Silent my phones and work soley with laptop
+Start after making dinner to avoid going to the kitchen
 
 ---
 
@@ -324,19 +329,20 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I function more in a quiet environment with a very calm music in the background
+I can actually bring my ideas to life and write solidly without asking AI to refine it better
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+If I don't make proper plans, I loose concentration easily
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Write down everything I want to do the next day the previous night before bedtime, Paste it in front of my workspace and if i default,then I do push-ups for the ones I defaulted in.
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+https://www.linkedin.com/posts/ekwebelemamarachi_microinternship-mindset-cloudengineering-share-7478585413574692864-p-sy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADplDCsB-h0fFvTLuHSKpPe6bjHevn388hs
 
 `__________________________`
 
@@ -344,8 +350,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/ekwebelemamarachi_microinternship-mindset-cloudengineering-share-7478585413574692864-p-sy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADplDCsB-h0fFvTLuHSKpPe6bjHevn388hs**  
+- Blog / Medium : **https://medium.com/@cloudcrackamara/-051bb650015d?sharedUserId=cloudcrackamara**  
 
 ---
 
