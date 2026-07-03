@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Every adult knows what they are doing,that an adult treats you a certain way or treats a project or behave a certain way is not because they don't have a choice to learn and unlearn but because they don't value that thing to an extent that they can put in extra effort to make it a sucess.
+Every adult knows what they are doing,that an adult treats you a certain way or treats a project or behave a certain way is not because they don't have a choice to learn and unlearn but because they don't value that thing to an extent that they can put in extra effort to make it a success.
 
 ---
 
